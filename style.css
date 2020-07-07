@@ -1,0 +1,22 @@
+.container{
+    padding:50px 0px 0px 0px ;
+    max-width: 1520px;
+}
+*, ::after, ::before {
+    padding: 0px 25px;
+    box-sizing: border-box;
+}
+.top-banner{
+    background-image: url("image/product-text.png");
+    background-repeat: no-repeat;
+    background-size: 90px;
+    background-position: 600px;
+}
+.buy-now-button{
+    background-image: linear-gradient( to bottom, #141414 0%, #1b0e13);
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
